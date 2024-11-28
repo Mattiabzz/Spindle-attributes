@@ -53,7 +53,7 @@ python main.py
 - Al termine dell'elaborazione, verrà creata una cartella denominata `Risultati`.
 - All'interno di questa cartella saranno presenti:
   - Informazioni sui pazienti.
-  - Nomogrammi relativi a ciascun paziente.
+  - Nomogrammi relativi ai pazienti.
 
 ---
 
